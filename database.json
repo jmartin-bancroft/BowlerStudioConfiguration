@@ -22,6 +22,10 @@
       "https://github.com/jmartin-bancroft/javaCad_jmartin-bancroft.git",
       "javaCad.groovy"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Nametag.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
+      "Nametag.groovy"
+    ],
     "https://github.com/jmartin-bancroft/helloWorld_jmartin-bancroft.git:helloWorld.groovy": [
       "https://github.com/jmartin-bancroft/helloWorld_jmartin-bancroft.git",
       "helloWorld.groovy"
