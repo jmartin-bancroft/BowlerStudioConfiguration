@@ -8,6 +8,10 @@
       "https://github.com/jmartin-bancroft/helloWorld_jmartin-bancroft.git",
       "1698179844860"
     ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "1707233700849"
+    ],
     "https://github.com/jmartin-bancroft/javaCad_jmartin-bancroft.git": [
       "https://github.com/jmartin-bancroft/javaCad_jmartin-bancroft.git",
       "1698180408405"
@@ -25,6 +29,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Nametag.groovy"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ]
   },
   "BowlerStudioConfigs": {
