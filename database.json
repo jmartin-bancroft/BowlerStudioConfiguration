@@ -34,6 +34,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Simple_Robot.xml"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
+      "TestKinematics.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_RobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Simple_RobotCad.groovy"
