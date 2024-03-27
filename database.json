@@ -38,6 +38,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Simple_Robot.xml"
     ],
+    "https://github.com/jmartin-bancroft/MotomanGP8.git:AR700.xml": [
+      "https://github.com/jmartin-bancroft/MotomanGP8.git",
+      "AR700.xml"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:TestKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "TestKinematics.groovy"
