@@ -8,6 +8,10 @@
       "Project ",
       "1714659961904"
     ],
+    "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git": [
+      "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git",
+      "1714660057428"
+    ],
     "https://github.com/jmartin-bancroft/helloWorld_jmartin-bancroft.git": [
       "https://github.com/jmartin-bancroft/helloWorld_jmartin-bancroft.git",
       "1698179844860"
@@ -38,6 +42,10 @@
     "printCSG": true
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobot.xml"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_RobotKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Simple_RobotKinematics.groovy"
@@ -49,14 +57,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_Robot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Simple_Robot.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:TestKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
-      "TestKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_RobotCad.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
-      "Simple_RobotCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
