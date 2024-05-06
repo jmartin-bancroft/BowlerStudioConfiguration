@@ -38,13 +38,25 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "virtualDev",
+    "robotName": "VexVitaminsRobot_Jeremy",
+    "robotGitFile": "VexVitaminsRobot_Jeremy.xml",
+    "robotGit": "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git"
+  },
   "MenueSettings": {
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
+    "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git:VexVitaminsRobot_Jeremy.xml": [
+      "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git",
+      "VexVitaminsRobot_Jeremy.xml"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_RobotKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
