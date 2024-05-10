@@ -43,7 +43,19 @@
       "Play",
       "Game",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot_Jeremy",
@@ -61,14 +73,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_RobotKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
       "Simple_RobotKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
-      "Nametag.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_Robot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
-      "Simple_Robot.xml"
     ]
   },
   "BowlerStudioConfigs": {
@@ -79,5 +83,22 @@
     "skinBranch": "2.11.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
+  },
+  "Faceoff Deluxe+ Audio Wired Controller for Nintendo Switch": {
+    "Button 9": "start",
+    "X Axis": "l-joy-left-right",
+    "Button 8": "select",
+    "Button 7": "r-trig-button",
+    "Button 6": "l-trig-button",
+    "Button 5": "analog-trig",
+    "Y Axis": "l-joy-up-down",
+    "Button 4": "arrow-left-right",
+    "Button 3": "x-mode",
+    "Button 2": "a-mode",
+    "Button 1": "b-mode",
+    "Button 0": "y-mode",
+    "Z Axis": "r-joy-left-right",
+    "Z Rotation": "r-joy-up-down",
+    "Hat Switch": "arrow-up-down"
   }
 }
