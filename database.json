@@ -83,10 +83,6 @@
       "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git",
       "VexVitaminsRobot_Jeremy.xml"
     ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git:Simple_RobotKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group04.git",
-      "Simple_RobotKinematics.groovy"
-    ],
     "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git:RCControl.groovy": [
       "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git",
       "RCControl.groovy"
