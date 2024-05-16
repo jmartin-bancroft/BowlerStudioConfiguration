@@ -77,7 +77,7 @@
   "PhysicsWidget": {
     "movingObjects": "fieldElements.groovy",
     "gitStatic": "",
-    "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
+    "gitMoving": "https://github.com/jmartin-bancroft/VexHighStakes2024.git"
   },
   "studio-open-git": {
     "https://github.com/jmartin-bancroft/VexVitaminsRobot_Jeremy.git:VexVitaminsRobot_Jeremy.xml": [
